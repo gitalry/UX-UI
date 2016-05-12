@@ -1,2 +1,2 @@
 # UX-UI
-This repo contains Ux related content
+This repo contains Ux related content, ideas material.
